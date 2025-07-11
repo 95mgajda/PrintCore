@@ -1,5 +1,6 @@
-# PrintCore
 # PrintCore – Baza danych do obsługi klientów / Customer Database Project
+
+##  Opis projektu / Project Description
 
 PrintCore to projekt bazy danych przygotowany w ramach studiów podyplomowych BIG DATA.
 
@@ -22,11 +23,14 @@ The goal of the project is to build a customer, order, and product management sy
 
 ##  Pliki w repozytorium / Files in the repository
 
-- `printcore_db.sql` – kod do utworzenia bazy danych i wstawienia danych testowych / SQL script to create the database and insert test data
+- `printcore_db.sql` – kod do utworzenia bazy danych i wstawienia danych testowych 
+  SQL script to create the database and insert test data
 
-- `printcore_erd.pdf` – diagram relacji (ERD) / Entity-relationship diagram (ERD)
+- `printcore_erd.pdf` – diagram relacji (ERD)  
+  Entity-relationship diagram (ERD)
 
-- `README.md` – opis projektu / Project description
+- `README.md` – opis projektu  
+  Project description
 
 ---
 
@@ -40,3 +44,4 @@ Maciej Gajda
 
 Projekt demonstracyjny do nauki SQL, ETL i modelowania danych.  
 Demonstration project for learning SQL, ETL, and data modeling.
+
