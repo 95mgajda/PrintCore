@@ -11,3 +11,4 @@
 - [ ] Nauczyć się pracy na branchach (GitHub)
 - [ ] Przygotować pierwszego pull requesta (PR)
 - [ ] Dodać extended descriptions w commitach (dla ćwiczenia)
+- [ ] Zaplanować checklistę na jutro (np. import danych, branche)
