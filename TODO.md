@@ -3,7 +3,7 @@
 - [ ] Dodać dane testowe
 - [ ] Przygotować raporty w Power BI
 - [ ] Opisać projekt w README po angielsku i polsku
-- [ ] Stworzyć prosty skrypt ETL w Pythonie
+- [x] Stworzyć prosty skrypt ETL w Pythonie
 - [ ] Przeprowadzić import danych do SQL:
     - [ ] Metoda 1: Import ręczny przez SSMS (SQL Server Management Studio)
     - [ ] Metoda 2: Skrypt SQL z INSERT-ami
