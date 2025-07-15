@@ -9,3 +9,4 @@
 - [ ] Przygotować pierwszego pull requesta (PR)
 - [ ] Dodać extended descriptions w commitach (dla ćwiczenia)
 - [ ] Zaplanować checklistę na jutro (np. import danych, branche)
+- [x] Naprawa skryptu testowego czyszczenie danych (Tel, NIP)
