@@ -47,3 +47,9 @@ Maciej Gajda
 Projekt demonstracyjny do nauki SQL, ETL i modelowania danych.  
 Demonstration project for learning SQL, ETL, and data modeling.
 
+## Import danych
+
+- Python script: `import_clients.py`  
+- Dependencies: pandas, pyodbc  
+- Tested on: SQL Server LocalDB, database PrintCore_Test, table Clients_Test
+
