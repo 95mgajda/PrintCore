@@ -1,10 +1,11 @@
 import pandas as pd
 import pyodbc
+import re
 
-# Ścieżka do pliku CSV z danymi testowymi
-csv_file = r'D:\GG Draft\BigData\PrintCore\data\clients_test.csv'
+# Ścieżka do pliku CSV z danymi
+csv_file = r'D:\GG Draft\BigData\PrintCore\data\clients_for_sql.csv'
 
-# Ustawienia połączenia z nową bazą
+# Połączenie z bazą danych
 server = r'(localdb)\localDB1'
 database = 'PrintCore_Test'
 table = 'dbo.Clients_Test'
@@ -12,13 +13,13 @@ table = 'dbo.Clients_Test'
 # EXTRACT
 df = pd.read_csv(csv_file)
 
-# Usuń Client_ID jeśli jest
+# Usuń Client_ID jeśli istnieje
 if 'Client_ID' in df.columns:
     df = df.drop(columns=['Client_ID'])
 
-# Rzutowanie typów
-df['NIP'] = df['NIP'].astype(str)
-df['Phone'] = df['Phone'].astype(str)
+# Rzutowanie typów i czyszczenie danych
+df['NIP'] = df['NIP'].apply(lambda x: re.sub(r'\D', '', str(x)))
+df['Phone'] = df['Phone'].apply(lambda x: re.sub(r'\D', '', str(x)))
 
 # CONNECT
 conn_str = (
