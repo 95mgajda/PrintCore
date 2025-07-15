@@ -1,13 +1,10 @@
 - [x] Stworzyć plik .gitignore
 - [x] Stworzyć plik requirements.txt
-- [ ] Dodać dane testowe
+- [x] Dodać dane testowe
 - [ ] Przygotować raporty w Power BI
 - [ ] Opisać projekt w README po angielsku i polsku
 - [x] Stworzyć prosty skrypt ETL w Pythonie
-- [ ] Przeprowadzić import danych do SQL:
-    - [ ] Metoda 1: Import ręczny przez SSMS (SQL Server Management Studio)
-    - [ ] Metoda 2: Skrypt SQL z INSERT-ami
-    - [ ] Metoda 3: Skrypt Python (np. z pyodbc/sqlalchemy)
+- [x] Przeprowadzenie testowego importu danych do SQL Server za pomocą Pythona (PrintCore_Test, Clients_Test)
 - [ ] Nauczyć się pracy na branchach (GitHub)
 - [ ] Przygotować pierwszego pull requesta (PR)
 - [ ] Dodać extended descriptions w commitach (dla ćwiczenia)
