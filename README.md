@@ -34,6 +34,13 @@ The goal of the project is to build a customer, order, and product management sy
 
 ✅ Daily commit 2025-07-10: mała zmiana dla utrzymania ciągłości pracy.
 
+## Orders data generator 2025-07-22:
+
+- Script: `generate_orders.py`
+- Description: Generates fake orders with random client, date, and amount.
+- Requirements: pandas, pyodbc, faker
+
+
 ---
 
 ## 👤 Autor / Author
