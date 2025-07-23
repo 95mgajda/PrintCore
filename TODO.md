@@ -6,7 +6,7 @@
 - [x] Przeprowadzenie testowego importu danych do SQL Server za pomocą Pythona (PrintCore_Test, Clients_Test)
 - [x] Nauczyć się pracy na branchach (GitHub)
 - [ ] Przygotować pierwszego pull requesta (PR)
-- [ ] Dodać extended descriptions w commitach (dla ćwiczenia)
+- [x] Dodać extended descriptions w commitach (dla ćwiczenia)
 - [ ] Zaplanować checklistę na jutro (np. import danych, branche)
 - [x] Naprawa skryptu testowego czyszczenie danych (Tel, NIP)
 - [x] Stworzenie tabeli Orders i generatora zamówień w Pythonie
