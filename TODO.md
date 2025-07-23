@@ -2,10 +2,9 @@
 - [x] Stworzyć plik requirements.txt
 - [x] Dodać dane testowe
 - [ ] Przygotować raporty w Power BI
-- [ ] Opisać projekt w README po angielsku i polsku
 - [x] Stworzyć prosty skrypt ETL w Pythonie
 - [x] Przeprowadzenie testowego importu danych do SQL Server za pomocą Pythona (PrintCore_Test, Clients_Test)
-- [ ] Nauczyć się pracy na branchach (GitHub)
+- [x] Nauczyć się pracy na branchach (GitHub)
 - [ ] Przygotować pierwszego pull requesta (PR)
 - [ ] Dodać extended descriptions w commitach (dla ćwiczenia)
 - [ ] Zaplanować checklistę na jutro (np. import danych, branche)
