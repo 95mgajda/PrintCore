@@ -12,3 +12,6 @@
 - [x] Naprawa skryptu testowego czyszczenie danych (Tel, NIP)
 - [x] Stworzenie tabeli Orders i generatora zamówień w Pythonie
 - [ ] Zrobic skrypt który dzieli tekst na wyrazy i wyszukuje słowa zawierajacą dana litere (powinien umieć dzielić tekst na wyrazy w liscie, a wyrazy na litery , Jak zrobić coś ala filtrowanie po znaku lub części słowa
+- [ ] Nauczyć sie i wdrążyć do projektu Power Automate
+- [ ] 
+
