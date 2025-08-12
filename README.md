@@ -40,6 +40,9 @@ The goal of the project is to build a customer, order, and product management sy
 - Description: Generates fake orders with random client, date, and amount.
 - Requirements: pandas, pyodbc, faker
 
+## Raportowanie
+Skrypt `generate_raport.py` generuje plik CSV z podsumowaniem zamówień na klienta (liczba zamówień, łączna wartość).
+
 
 ---
 
@@ -59,4 +62,5 @@ Demonstration project for learning SQL, ETL, and data modeling.
 - Python script: `import_clients.py`  
 - Dependencies: pandas, pyodbc  
 - Tested on: SQL Server LocalDB, database PrintCore_Test, table Clients_Test
+
 
