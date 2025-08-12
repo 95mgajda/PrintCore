@@ -44,6 +44,9 @@ The goal of the project is to build a customer, order, and product management sy
 Skrypt `generate_raport.py` generuje plik CSV z podsumowaniem zamówień na klienta (liczba zamówień, łączna wartość).
 
 
+## Scripts
+- `generate_products.py` – losowe generowanie produktów do bazy (30 wpisów)
+- `generate_raport.py` generuje plik CSV z podsumowaniem zamówień na klienta (liczba zamówień, łączna wartość).
 ---
 
 ## 👤 Autor / Author
@@ -62,5 +65,6 @@ Demonstration project for learning SQL, ETL, and data modeling.
 - Python script: `import_clients.py`  
 - Dependencies: pandas, pyodbc  
 - Tested on: SQL Server LocalDB, database PrintCore_Test, table Clients_Test
+
 
 
