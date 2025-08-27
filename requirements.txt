@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 faker==37.4.0
 pandas>=2.8.2
 pyodbc==5.2.0
+=======
+faker==37.4.0
+pandas==2.2.2
+pyodbc==5.2.0
+>>>>>>> dc8e7ea70a07fa40e32a9dd8882170fc04d43a7b

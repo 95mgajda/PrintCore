@@ -1,0 +1,6 @@
+First_Name,Last_Name,Email,Phone,NIP,Client_Type
+Jan,Kowalski,jan.kowalski@example.com,123456789,1234567890,B2C
+Anna,Nowak,anna.nowak@example.com,987654321,0987654321,B2B
+Piotr,Wiśniewski,piotr.wisniewski@example.com,555666777,1122334455,B2C
+Katarzyna,Wiśniewska,kasia.wisniewska@example.com,444555666,5566778899,B2B
+Marcin,Nowakowski,marcin.nowakowski@example.com,333222111,9988776655,B2C
