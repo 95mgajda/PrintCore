@@ -1,0 +1,19 @@
+# Środowiska wirtualne Python
+.venv/
+venv/
+
+# Pliki konfiguracyjne IDE
+.idea/
+*.iml
+
+# Pliki cache Pythona
+__pycache__/
+*.pyc
+
+# Pliki tymczasowe
+*.log
+*~
+~$*
+
+# Dane generowane testowo
+/data/*.csv
